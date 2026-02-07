@@ -98,8 +98,8 @@ This project uses a **Hybrid Architecture** (Node.js Frontend + Python Backend).
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/awshammad04/aj-speech-hero.git
-cd aj-speech-hero
+git clone https://github.com/awshammad04/aj.git
+cd aj
 ```
 
 ### 2. Frontend Setup (Next.js)
